@@ -15,8 +15,9 @@ stretch goal: style a component using yourniis colors and fonts
 
 
 ### choice 3:
-style /cards according to the KFC brand guidelines:
-https://global.kfc.com/media-assets
+style /cards according to the yournii style guidelines and materials
+Huisstijl_Yournii_V1.3.pdf
+https://www.yournii.com/
 
 ## Project Setup
 
