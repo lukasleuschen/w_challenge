@@ -25,7 +25,7 @@ import AnalyticsNewProject from '@/views/dashboard/AnalyticsNewProject.vue';
         <AnalyticsTransactions />
       </VCol>
     </VRow>
-    <VRow>
+    <VRow class="match-height">
       <VCol cols="12" md="4">
         <AnalyticsWeeklyOverview />
       </VCol>

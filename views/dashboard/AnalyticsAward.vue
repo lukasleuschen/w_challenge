@@ -19,7 +19,7 @@ import trophy from '@images/misc/trophy.png'
       <div class="text-body-1 mb-2">
         78% of target <span class="text-high-emphasis">🚀</span>
       </div>
-      <VBtn size="small">
+      <VBtn size="small" class="primary-button">
         View Sales
       </VBtn>
     </VCardText>
@@ -38,5 +38,10 @@ import trophy from '@images/misc/trophy.png'
   inline-size: 5.188rem;
   inset-block-end: 1.25rem;
   inset-inline-end: 1.25rem;
+}
+
+.primary-button {
+  border-radius: 5px;
+  block-size: 35px;
 }
 </style>
