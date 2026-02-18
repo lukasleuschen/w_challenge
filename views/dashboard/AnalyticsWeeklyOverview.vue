@@ -131,9 +131,16 @@ const moreList = [
         </p>
       </div>
 
-      <VBtn block>
+      <VBtn block class="primary-button">
         Details
       </VBtn>
     </VCardText>
   </VCard>
 </template>
+
+<style>
+.primary-button {
+  border-radius: 5px;
+  block-size: 35px;
+}
+</style>
